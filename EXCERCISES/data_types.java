@@ -24,3 +24,20 @@ public class Main {
 
     }
 }
+
+// Basic operation with JAVA
+
+package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int numeroEntero = 1;
+        double numeroConComa = 2.0;
+        double suma;
+        suma = (double)numeroEntero + numeroConComa;
+
+
+    }
+}
